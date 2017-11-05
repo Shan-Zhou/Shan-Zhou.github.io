@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shanzhou.xyz/notes/index.html</loc>
+    
+    <lastmod>2017-11-05T12:00:17.680Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://shanzhou.xyz/2016/02/21/Test-1/</loc>
     
     <lastmod>2017-11-05T11:49:50.530Z</lastmod>
@@ -25,7 +32,7 @@
   <url>
     <loc>http://shanzhou.xyz/2016/07/18/Quantum-field-theory-first-encounter/</loc>
     
-    <lastmod>2017-11-05T11:46:33.915Z</lastmod>
+    <lastmod>2017-11-05T11:47:54.582Z</lastmod>
     
   </url>
   
