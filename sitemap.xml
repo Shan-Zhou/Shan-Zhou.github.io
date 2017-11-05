@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shanzhou.xyz/about/index.html</loc>
+    
+    <lastmod>2017-11-05T12:06:33.819Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://shanzhou.xyz/notes/index.html</loc>
     
-    <lastmod>2017-11-05T12:00:17.680Z</lastmod>
+    <lastmod>2017-11-05T12:04:48.081Z</lastmod>
     
   </url>
   
@@ -33,20 +40,6 @@
     <loc>http://shanzhou.xyz/2016/07/18/Quantum-field-theory-first-encounter/</loc>
     
     <lastmod>2017-11-05T11:47:54.582Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shanzhou.xyz/about/index.html</loc>
-    
-    <lastmod>2017-11-05T11:32:39.636Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shanzhou.xyz/2016/03/21/Crossroads/</loc>
-    
-    <lastmod>2016-03-25T02:53:36.000Z</lastmod>
     
   </url>
   
