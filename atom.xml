@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shanzhou.xyz/"/>
-  <updated>2017-11-05T11:47:54.582Z</updated>
+  <updated>2017-11-05T12:30:40.225Z</updated>
   <id>http://shanzhou.xyz/</id>
   
   <author>
@@ -15,76 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Quantum field theory, first encounter</title>
-    <link href="http://shanzhou.xyz/2016/07/18/Quantum-field-theory-first-encounter/"/>
-    <id>http://shanzhou.xyz/2016/07/18/Quantum-field-theory-first-encounter/</id>
-    <published>2016-07-18T15:34:41.000Z</published>
-    <updated>2017-11-05T11:47:54.582Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Bibliography"><a href="#Bibliography" class="headerlink" title="Bibliography"></a>Bibliography</h2><p>S. Weinberg, <em>Quantum theory of fields</em>, vol. 1</p><p>Nothing else is needed. I cannot find a better textbook about QFT for beginners. Knowledge of particle physics will be greatly helpful, but I think it is better to learn particle physics after knowing enough field theory.</p><p>Besides, Weinberg does not discuss much about condensed matter physics, so after mastering main ideas of QFT, I will follow another textbook for condensed matter field theory (and I plan to write another note).</p><a id="more"></a><h2 id="0-Introduction"><a href="#0-Introduction" class="headerlink" title="0. Introduction"></a>0. Introduction</h2><p>This is a note, for my first encounter with QFT.<br>Many people consider Weinberg’s book as the last textbook for QFT, thinking it is not suitable for a beginner, which I completely disagree. In my own opinion, a good framework is most important when learning something the first time, and Weinberg provides the best framework for QFT, at least compared with all the other textbooks.</p><p>For me, giving a field equation and the corresponding solution built by annihilation/creation operators is really confusing, for I have never learnt the semi-classical approach to quantized electromagnetic field before.<br>Instead, Weinberg shows fields are just we needed when building a theory satisfying basic principles of quantum mechanics and special relativity, and in some sense quantum field theory is just a syntactic sugar.</p><p>Besides, I know nearly nothing about perturbation theory and scattering theory before learning QFT, which are all covered in the first several chapters of Weinberg’s QFT, making it self-contained. Therefore, at least for myself, this is the best textbook about QFT.</p><p>The only negative aspect for a beginner, I think, is that  Weinberg assumes you know elementary particles (phenomenology) well (and actually he also assumes you have learnt general relativity, but everything related to gravity can be safely skipped), so I do not understand some important results such as CPT theorem before learning some particle physics.</p><h2 id="1-History"><a href="#1-History" class="headerlink" title="1. History"></a>1. History</h2><p>I skip this chapter for my first reading, simply because I cannot understand. It is much more difficult than all the other things in this book :)</p><h2 id="2-Relativistic-quantum-mechanics"><a href="#2-Relativistic-quantum-mechanics" class="headerlink" title="2. Relativistic quantum mechanics"></a>2. Relativistic quantum mechanics</h2><h3 id="2-1-Structure-of-Poincare-group"><a href="#2-1-Structure-of-Poincare-group" class="headerlink" title="2.1 Structure of Poincaré group"></a>2.1 Structure of Poincaré group</h3><h3 id="2-2-Scattering-theory"><a href="#2-2-Scattering-theory" class="headerlink" title="2.2 Scattering theory"></a>2.2 Scattering theory</h3><h4 id="2-2-1-S-matrix"><a href="#2-2-1-S-matrix" class="headerlink" title="2.2.1 S-matrix"></a>2.2.1 S-matrix</h4><h4 id="2-2-2-Time-dependent-perturbation"><a href="#2-2-2-Time-dependent-perturbation" class="headerlink" title="2.2.2 Time-dependent perturbation"></a>2.2.2 Time-dependent perturbation</h4><h3 id="2-3-Cluster-decomposition-principle"><a href="#2-3-Cluster-decomposition-principle" class="headerlink" title="2.3 Cluster decomposition principle"></a>2.3 Cluster decomposition principle</h3><h4 id="2-3-1-Fock-space"><a href="#2-3-1-Fock-space" class="headerlink" title="2.3.1 Fock space"></a>2.3.1 Fock space</h4><h4 id="2-3-2-Cluster-expansion"><a href="#2-3-2-Cluster-expansion" class="headerlink" title="2.3.2 Cluster expansion"></a>2.3.2 Cluster expansion</h4><h4 id="2-3-3-Naive-Feynman-diagram"><a href="#2-3-3-Naive-Feynman-diagram" class="headerlink" title="2.3.3 Naive Feynman diagram"></a>2.3.3 Naive Feynman diagram</h4><h2 id="3-Construction-of-quantum-fields"><a href="#3-Construction-of-quantum-fields" class="headerlink" title="3. Construction of quantum fields"></a>3. Construction of quantum fields</h2><h3 id="3-1-A-general-but-rough-construction"><a href="#3-1-A-general-but-rough-construction" class="headerlink" title="3.1 A general but rough construction"></a>3.1 A general but rough construction</h3><h3 id="3-2-Scalar-field-spin-0-boson"><a href="#3-2-Scalar-field-spin-0-boson" class="headerlink" title="3.2 Scalar field, spin-0 boson"></a>3.2 Scalar field, spin-0 boson</h3><h3 id="3-3-Vector-field-spin-1-boson"><a href="#3-3-Vector-field-spin-1-boson" class="headerlink" title="3.3 Vector field, spin-1 boson"></a>3.3 Vector field, spin-1 boson</h3><h3 id="3-4-Dirac-spinor-field-spin-1-2-fermion"><a href="#3-4-Dirac-spinor-field-spin-1-2-fermion" class="headerlink" title="3.4 Dirac spinor field, spin-1/2 fermion"></a>3.4 Dirac spinor field, spin-1/2 fermion</h3><h3 id="3-5-General-field-spin-statistics-theory"><a href="#3-5-General-field-spin-statistics-theory" class="headerlink" title="3.5 General field, spin-statistics theory"></a>3.5 General field, spin-statistics theory</h3><h3 id="3-6-Vector-field-for-massless-spin-1-bosons-photons"><a href="#3-6-Vector-field-for-massless-spin-1-bosons-photons" class="headerlink" title="3.6 Vector field for massless spin-1 bosons (photons)"></a>3.6 Vector field for massless spin-1 bosons (photons)</h3><h2 id="4-Feynman-diagram"><a href="#4-Feynman-diagram" class="headerlink" title="4. Feynman diagram"></a>4. Feynman diagram</h2><h2 id="5-Canonical-formalism"><a href="#5-Canonical-formalism" class="headerlink" title="5. Canonical formalism"></a>5. Canonical formalism</h2><h2 id="6-Quantum-electrodynamics"><a href="#6-Quantum-electrodynamics" class="headerlink" title="6. Quantum electrodynamics"></a>6. Quantum electrodynamics</h2><h2 id="7-Feynman-path-integral-formalism"><a href="#7-Feynman-path-integral-formalism" class="headerlink" title="7. Feynman path-integral formalism"></a>7. Feynman path-integral formalism</h2><h2 id="8-Non-perturbation-results"><a href="#8-Non-perturbation-results" class="headerlink" title="8. Non-perturbation results"></a>8. Non-perturbation results</h2><h2 id="9-One-loop-correction-in-QED"><a href="#9-One-loop-correction-in-QED" class="headerlink" title="9, One-loop correction in QED"></a>9, One-loop correction in QED</h2><h2 id="10-Renormalization-theory-and-effective-field-theory"><a href="#10-Renormalization-theory-and-effective-field-theory" class="headerlink" title="10. Renormalization theory and effective field theory"></a>10. Renormalization theory and effective field theory</h2><h2 id="to-be-finished"><a href="#to-be-finished" class="headerlink" title="to be finished"></a>to be finished</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;Bibliography&quot;&gt;&lt;a href=&quot;#Bibliography&quot; class=&quot;headerlink&quot; title=&quot;Bibliography&quot;&gt;&lt;/a&gt;Bibliography&lt;/h2&gt;&lt;p&gt;S. Weinberg, &lt;em&gt;Quantum theory of fields&lt;/em&gt;, vol. 1&lt;/p&gt;
-&lt;p&gt;Nothing else is needed. I cannot find a better textbook about QFT for beginners. Knowledge of particle physics will be greatly helpful, but I think it is better to learn particle physics after knowing enough field theory.&lt;/p&gt;
-&lt;p&gt;Besides, Weinberg does not discuss much about condensed matter physics, so after mastering main ideas of QFT, I will follow another textbook for condensed matter field theory (and I plan to write another note).&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Notes" scheme="http://shanzhou.xyz/categories/Notes/"/>
-    
-    
-      <category term="QFT Weinberg" scheme="http://shanzhou.xyz/tags/QFT-Weinberg/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Notes of quantum mechanics</title>
-    <link href="http://shanzhou.xyz/2016/03/08/Notes-of-quantum-mechanics/"/>
-    <id>http://shanzhou.xyz/2016/03/08/Notes-of-quantum-mechanics/</id>
-    <published>2016-03-08T15:10:07.000Z</published>
-    <updated>2017-11-05T11:48:24.163Z</updated>
-    
-    <content type="html"><![CDATA[<p>I will write more after studying Landau’s book.</p><h2 id="Prologue"><a href="#Prologue" class="headerlink" title="Prologue"></a>Prologue</h2><p>Recently (a week ago?) I finished learning quantum mechanics, for the first time. Although there are many topics I haven’t understood, by next semester, I will not learn it again.</p><a id="more"></a><h2 id="Bibliography"><a href="#Bibliography" class="headerlink" title="Bibliography"></a>Bibliography</h2><p>Griffith, Sakurai, Shankar</p><p>Actually, there is no perfect textbook of quantum mechanics. Relatively, Sakurai is the best one, but it assumes that you have learnt classical mechanics (Goldstein) and elementary quantum mechanics (a.k.a. wave mechanics). Griffith and Shankar are both self-contained, but they are not very interesting.</p><p>In addition, all of them treat approximation methods (i.e. WKB, variational methods and perturbation) and scattering theory terribly. I think they will be explained better in field theory (so know I am trying to learn relativistic quantum mechanics and scattering theory from Weinberg’s QFT).</p><p>I want to register the course “advanced quantum mechanics” next semester and revisit quantum mechanics. I plan to follow</p><p>Landau, Quantum mechanics (non-relativistic theory).<br>Weinberg, Lectures on quantum mechanics.<br>Hall, quantum theory for mathematicians.</p><h2 id="What-is-quantum-mechanics"><a href="#What-is-quantum-mechanics" class="headerlink" title="What is quantum mechanics"></a>What is quantum mechanics</h2><p>to be finished</p><h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>to be finished</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;I will write more after studying Landau’s book.&lt;/p&gt;
-&lt;h2 id=&quot;Prologue&quot;&gt;&lt;a href=&quot;#Prologue&quot; class=&quot;headerlink&quot; title=&quot;Prologue&quot;&gt;&lt;/a&gt;Prologue&lt;/h2&gt;&lt;p&gt;Recently (a week ago?) I finished learning quantum mechanics, for the first time. Although there are many topics I haven’t understood, by next semester, I will not learn it again.&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Notes" scheme="http://shanzhou.xyz/categories/Notes/"/>
-    
-    
-      <category term="quantum\_mechanics Sakurai Shankar" scheme="http://shanzhou.xyz/tags/quantum-mechanics-Sakurai-Shankar/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Introduction to critical phenomena</title>
-    <link href="http://shanzhou.xyz/2016/02/23/Introduction-to-critical-phenomena/"/>
-    <id>http://shanzhou.xyz/2016/02/23/Introduction-to-critical-phenomena/</id>
-    <published>2016-02-23T15:14:52.000Z</published>
-    <updated>2017-11-05T12:34:50.866Z</updated>
-    
-    <content type="html"><![CDATA[<p>Update: I don’t know what I have written, and I will rewrite it after learning enough condensed matter field theory (it will not be long)</p><p>Recently I skim over a book called `miracle of boundary: phase transition and critical phenomena’. Though published 30 years ago, it provides a brief picture of many important concepts in modern condensed matter physics.</p><a id="more"></a><h2 id="Phase-transition"><a href="#Phase-transition" class="headerlink" title="Phase transition."></a>Phase transition.</h2><p>Phase transition is the abrupt change of physical properties; for instance, when water concretes, its density increases discontinuously. It is due to the balance of particle interaction and thermal fluctuation. Phase transition happens when one overwhelms another.</p><h2 id="Mean-field-theory"><a href="#Mean-field-theory" class="headerlink" title="Mean-field theory."></a>Mean-field theory.</h2><p>From the view point of symmetry, there is a simple but powerful theory of phase transition. As we know, discontinuity could only comes from discontinuity, but physical quantity, as long as it is a quantity, varies continuously. There is a exception: symmetry, which can only be existent or nonexistent.</p><p>Landau’s theory uses order parameter and spontaneous symmetry breaking to describe the process of phase transition and is able to calculate critical exponent. In brief, it says as some quantity varies continuously, whether `spontaneous symmetry breaking’ exists of not varies abruptly.</p><p>By the way, there is also phase transition in complex networks, where `symmetry’ seems to disappear; however, I do not know what theory provides a unified frame like Landau’s theory.</p><h2 id="How-to-do-statistical-physics"><a href="#How-to-do-statistical-physics" class="headerlink" title="How to do statistical physics."></a>How to do statistical physics.</h2><p>Partition function is just like characteristic function. When dealing a problem of probability, we can first calculate the characteristic function of some random variable, and then all the statistical moments can be derived from its derivatives.</p><p>Similarly, partition function contains all the information of a system in statistical physics. So the standard steps solving a statistical physics problem is:</p><ol><li><p>Find the energy spectrum.</p></li><li><p>Calculate the partition function.</p></li><li><p>Do derivation to find all the thermodynamic quantities.</p></li></ol><p>The last two steps is quite standard, so it is often the first step that the most difficult.</p><h2 id="Scaling-law-and-universality-and-renormalization-group"><a href="#Scaling-law-and-universality-and-renormalization-group" class="headerlink" title="Scaling law and universality and renormalization group."></a>Scaling law and universality and renormalization group.</h2><p>To be honest, I do not understand them very much.</p><p>As far as I know, a physical system has odd behavior at its critical point because of the divergence of correlation length. Usually, a physical system only has local correlation; however, at critical point, long-scale correlation emerges, which is independent of the microscopic details. This is the origin of universality, i.e., completely different physical system can share common quantitative relations, such as the critical exponent.</p><p>Renormalization group provides a powerful tool to understand this situation and it is also a powerful method of calculation. At the critical point, the system is self-similar, which means coarse-graining does not change the system up to a re-scaling of units. The operation of coarse-graining forms a semi-group, called renormalization group, and critical point is just the fixed point of renormalization.</p><h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>I only know some words right now, however, I believe I will soon learn much more about them in statistical physics and condensed matter field theory.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Update: I don’t know what I have written, and I will rewrite it after learning enough condensed matter field theory (it will not be long)&lt;/p&gt;
-&lt;p&gt;Recently I skim over a book called `miracle of boundary: phase transition and critical phenomena’. Though published 30 years ago, it provides a brief picture of many important concepts in modern condensed matter physics.&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Notes" scheme="http://shanzhou.xyz/categories/Notes/"/>
-    
-    
-      <category term="popular\_science critical\_phenomena" scheme="http://shanzhou.xyz/tags/popular-science-critical-phenomena/"/>
-    
-  </entry>
   
   <entry>
     <title>Test 1</title>
