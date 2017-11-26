@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://shanzhou.xyz/about.html/"/>
+  <link href="http://shanzhou.xyz/"/>
   <updated>2017-11-12T09:28:27.256Z</updated>
-  <id>http://shanzhou.xyz/about.html/</id>
+  <id>http://shanzhou.xyz/</id>
   
   <author>
     <name>Shan Zhou</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://shanzhou.xyz/about.html/2016/02/21/Hello_World/"/>
-    <id>http://shanzhou.xyz/about.html/2016/02/21/Hello_World/</id>
+    <link href="http://shanzhou.xyz/2016/02/21/Hello_World/"/>
+    <id>http://shanzhou.xyz/2016/02/21/Hello_World/</id>
     <published>2016-02-21T06:24:13.000Z</published>
     <updated>2017-11-12T09:28:27.256Z</updated>
     
-    <content type="html"><![CDATA[<p>Markdown format test:</p><h1 id="XxX"><a href="#XxX" class="headerlink" title="XxX"></a>XxX</h1><h3 id="aaa"><a href="#aaa" class="headerlink" title="aaa"></a>aaa</h3><p>Emoji test:<br>🐗<br>🐇<br>⚽️</p><p>Chinese character test:<br>野猪</p><p>Japanese character test:<br>イノシシは死ぬしようとしています</p><p>Greek character test:<br>Αγριογούρουνο πρόκειται να πεθάνουν</p><p>Extended Latin character test:<br>à¡™£¢§â¶•ªº–≠œȧá®þ¥äơø,“‘«āßðƒ©ẖőo̊ł…æảạȩǚăãą≤≥÷1̀⁄€‹›†̂‡°·‚—±Œ̇́‰Þ ̛̏̈Ø̦”’»̄ ̑Ð ̰‸̵̱̋̊№Æ̧̨̣̉̌̆̃„ʔ¿</p><p>Vildsvin kommer att dö</p><p>Read More test:<br><a id="more"></a></p><p>Math mode test:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p><p>inline formula test: $a_i$</p><p>Image test:<br><img src="/about.html/2016/02/21/Hello_World/killpig.jpg" alt="" title="killpig"></p><p>……</p>]]></content>
+    <content type="html"><![CDATA[<p>Markdown format test:</p><h1 id="XxX"><a href="#XxX" class="headerlink" title="XxX"></a>XxX</h1><h3 id="aaa"><a href="#aaa" class="headerlink" title="aaa"></a>aaa</h3><p>Emoji test:<br>🐗<br>🐇<br>⚽️</p><p>Chinese character test:<br>野猪</p><p>Japanese character test:<br>イノシシは死ぬしようとしています</p><p>Greek character test:<br>Αγριογούρουνο πρόκειται να πεθάνουν</p><p>Extended Latin character test:<br>à¡™£¢§â¶•ªº–≠œȧá®þ¥äơø,“‘«āßðƒ©ẖőo̊ł…æảạȩǚăãą≤≥÷1̀⁄€‹›†̂‡°·‚—±Œ̇́‰Þ ̛̏̈Ø̦”’»̄ ̑Ð ̰‸̵̱̋̊№Æ̧̨̣̉̌̆̃„ʔ¿</p><p>Vildsvin kommer att dö</p><p>Read More test:<br><a id="more"></a></p><p>Math mode test:<br>$$\frac{\partial u}{\partial t}<br>= h^2 \left( \frac{\partial^2 u}{\partial x^2} +<br>\frac{\partial^2 u}{\partial y^2} +<br>\frac{\partial^2 u}{\partial z^2}\right)$$</p><p>inline formula test: $a_i$</p><p>Image test:<br><img src="/2016/02/21/Hello_World/killpig.jpg" alt="" title="killpig"></p><p>……</p>]]></content>
     
     <summary type="html">
     
@@ -38,10 +38,10 @@
     
     </summary>
     
-      <category term="test" scheme="http://shanzhou.xyz/about.html/categories/test/"/>
+      <category term="test" scheme="http://shanzhou.xyz/categories/test/"/>
     
     
-      <category term="test" scheme="http://shanzhou.xyz/about.html/tags/test/"/>
+      <category term="test" scheme="http://shanzhou.xyz/tags/test/"/>
     
   </entry>
   
