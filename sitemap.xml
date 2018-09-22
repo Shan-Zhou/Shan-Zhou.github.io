@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shanzhou.xyz/about.html</loc>
+    
+    <lastmod>2018-09-22T18:28:50.118Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://shanzhou.xyz/publication/index.html</loc>
     
-    <lastmod>2018-01-18T06:56:23.304Z</lastmod>
+    <lastmod>2018-09-22T18:25:50.819Z</lastmod>
     
   </url>
   
@@ -24,13 +31,6 @@
   
   <url>
     <loc>http://shanzhou.xyz/blog/about.html</loc>
-    
-    <lastmod>2017-11-12T08:40:06.639Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shanzhou.xyz/about.html</loc>
     
     <lastmod>2017-11-12T08:40:06.639Z</lastmod>
     
