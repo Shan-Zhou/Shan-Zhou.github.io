@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://shanzhou.xyz/about.html</loc>
+    <loc>http://shanzhou.xyz/publication/index.html</loc>
     
-    <lastmod>2018-09-22T18:28:50.118Z</lastmod>
+    <lastmod>2019-05-24T01:45:22.281Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://shanzhou.xyz/publication/index.html</loc>
+    <loc>http://shanzhou.xyz/about.html</loc>
     
-    <lastmod>2018-09-22T18:25:50.819Z</lastmod>
+    <lastmod>2019-05-24T01:39:15.182Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shanzhou.xyz/notes/index.html</loc>
+    
+    <lastmod>2019-05-24T01:37:04.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shanzhou.xyz/blog/about.html</loc>
+    
+    <lastmod>2019-05-24T01:21:57.297Z</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>http://shanzhou.xyz/2016/02/21/Hello_World/</loc>
     
     <lastmod>2017-11-12T09:28:27.256Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shanzhou.xyz/notes/index.html</loc>
-    
-    <lastmod>2017-11-12T09:06:32.383Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://shanzhou.xyz/blog/about.html</loc>
-    
-    <lastmod>2017-11-12T08:40:06.639Z</lastmod>
     
   </url>
   
