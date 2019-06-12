@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shanzhou.xyz/"/>
-  <updated>2017-11-12T09:28:27.256Z</updated>
+  <updated>2019-05-24T01:55:45.648Z</updated>
   <id>http://shanzhou.xyz/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>language test</title>
+    <link href="http://shanzhou.xyz/2019/05/23/language%20test/"/>
+    <id>http://shanzhou.xyz/2019/05/23/language test/</id>
+    <published>2019-05-24T01:53:18.000Z</published>
+    <updated>2019-05-24T01:55:45.648Z</updated>
+    
+    <content type="html"><![CDATA[<p>Language</p><p>Phonetics</p><p>Phonology</p><p>Linguistic introduction to blabla</p><a id="more"></a><p>example</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Language&lt;/p&gt;
+&lt;p&gt;Phonetics&lt;/p&gt;
+&lt;p&gt;Phonology&lt;/p&gt;
+&lt;p&gt;Linguistic introduction to blabla&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="linguistics" scheme="http://shanzhou.xyz/categories/linguistics/"/>
+    
+    
+      <category term="linguistics" scheme="http://shanzhou.xyz/tags/linguistics/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
